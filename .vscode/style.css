@@ -42,9 +42,9 @@ body * {
 }
 
 #container {
-    width: 306px;
+    width: 100%;
+    max-width: 588px;
    
-    
     margin-right: auto;
     margin: auto;
 }
